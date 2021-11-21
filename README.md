@@ -1,2 +1,2 @@
-# projetosgi-devinhouse
+# React-app
  Projeto 2 - Curso FullStack DevinHouse
