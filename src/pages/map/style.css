@@ -1,0 +1,14 @@
+.container-map {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.map-main {
+  background-color: rgb(240, 245, 220);
+}
+
+.leaflet-touch .leaflet-control-layers,
+.leaflet-touch .leaflet-bar {
+  border: none;
+  background-clip: padding-box;
+}

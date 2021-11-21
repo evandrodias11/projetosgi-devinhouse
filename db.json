@@ -1,0 +1,108 @@
+{
+  "produtos": [
+    {
+      "url": "https://http2.mlstatic.com/D_NQ_NP_2X_685293-MLB43641182451_102020-F.webp",
+      "name": "Monitor Acer Led 21.5",
+      "unitCost": "843,00",
+      "description": "Acer V6 traz recursos para uma melhor experiência de imagem",
+      "provider": "Mercado Livre",
+      "group": "Eletrônicos",
+      "id": 1
+    },
+    {
+      "url": "https://http2.mlstatic.com/D_NQ_NP_2X_949239-MLB45387412816_032021-F.webp",
+      "name": "Ketchup Heinz Tradicional 397g",
+      "unitCost": "6,99",
+      "description": "Tomate, açúcar, vinagre, sal, cebola e aroma natural",
+      "provider": "Supermercado",
+      "group": "Outra Categoria",
+      "id": 2
+    },
+    {
+      "url": "https://http2.mlstatic.com/D_NQ_NP_2X_632205-MLB44925245983_022021-F.webp",
+      "name": "Creme Dental Colgate Total 12 180gr",
+      "unitCost": "7,99",
+      "description": "A Pasta de Dente Colgate Total 12 Clean Mint é um creme dental que oferece proteção e hálito refrescante por até 12 horas",
+      "provider": "Farmácia",
+      "group": "Outra Categoria",
+      "id": 3
+    },
+    {
+      "url": "https://http2.mlstatic.com/D_NQ_NP_2X_603042-MLA45255550671_032021-F.webp",
+      "name": "Amazon Echo Dot 3rd Gen",
+      "unitCost": "294,00",
+      "description": "O Echo Dot 3rd Gen é o alto-falante mais popular da Amazon: compacto, mas com uma qualidade de som excepcional",
+      "provider": "Amazon",
+      "group": "Eletrônicos",
+      "id": 4
+    }
+  ],
+  "empresas": [
+    {
+      "corporateName": "Massoca alimentos ltda",
+      "fantasyName": "Sorveteria Massoca",
+      "cnpj": "78.606.746/0001-30",
+      "email": "massoca@massoca.com.br",
+      "cep": "89870-973",
+      "address": "Rodovia SC 283",
+      "number": "00",
+      "district": "Vila zonta",
+      "city": "Chapecó",
+      "complement": "SC 283",
+      "latitude": "-27.112097",
+      "longitude": "-52.585232",
+      "id": 1
+    },
+    {
+      "corporateName": "PASSARELA CENTER LTDA",
+      "fantasyName": "VIA ECONOMIA ATACADISTA",
+      "cnpj": "03.107.202/0014-40",
+      "email": "nfechapeco@superpassarela.com.br",
+      "cep": "89804-250",
+      "address": "Rua Cristovao Colombo, S/N",
+      "number": "00",
+      "district": "BELA VISTA",
+      "city": "CHAPECO",
+      "complement": "00",
+      "latitude": "-27.076058",
+      "longitude": "-52.627481",
+      "id": 2
+    },
+    {
+      "corporateName": "BRASAO SUPERMERCADOS S/A",
+      "fantasyName": "SUPERMERCADO BRASAO",
+      "cnpj": "83.307.926/0001-51",
+      "email": "brasao@brasao",
+      "cep": "89802-112",
+      "address": "Rua Fernando Machado",
+      "number": "226",
+      "district": "Centro",
+      "city": "Chapecó",
+      "complement": "Centro",
+      "latitude": "-27.107402",
+      "longitude": "-52.615758",
+      "id": 3
+    }
+  ],
+  "fornecedores": [
+    "Mercado Livre",
+    "Amazon",
+    "Americanas",
+    "Shopee",
+    "Supermercado",
+    "Farmácia",
+    "Outro Fornecedor"
+  ],
+  "categorias": [
+    "Carnes",
+    "Pâes",
+    "Grãos",
+    "Cereais",
+    "Massas",
+    "Frutas",
+    "Verduras",
+    "Biscoitos",
+    "Eletrônicos",
+    "Outra Categoria"
+  ]
+}
