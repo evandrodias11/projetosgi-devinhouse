@@ -35,6 +35,15 @@
       "provider": "Amazon",
       "group": "Eletrônicos",
       "id": 4
+    },
+    {
+      "url": "https://a-static.mlcdn.com.br/618x463/cadeira-gamer-preta-e-vermelha-100-ac-comercial/magazineluiza/122802300/80e4dc04199b2d531b42f8f52cbbbe11.jpg",
+      "name": "Cadeira Gamer",
+      "unitCost": "600",
+      "description": "Almofada lombar - Almofada de pescoço - Apoio de braço fixo e ergonômico - Ajuste de altura - Base giratória - Rodas silenciosas - Função balanço (sistema Relax)",
+      "provider": "Mercado Livre",
+      "group": "Outra Categoria",
+      "id": 5
     }
   ],
   "empresas": [
@@ -82,6 +91,21 @@
       "latitude": "-27.107402",
       "longitude": "-52.615758",
       "id": 3
+    },
+    {
+      "corporateName": "Complexo Devinhouse",
+      "fantasyName": "DevInHouse Club",
+      "cnpj": "12.3456.789/8855",
+      "email": "teste@gmail.com",
+      "cep": "78945-852",
+      "address": "Rua Uruguai",
+      "number": "1214",
+      "district": "Passo dos Fortes",
+      "city": "Chapecó",
+      "complement": "teste",
+      "latitude": "-27.082193",
+      "longitude": "-52.605058",
+      "id": 4
     }
   ],
   "fornecedores": [
